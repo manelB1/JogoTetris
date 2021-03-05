@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rotacao.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\rotacao.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_esq.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\esq.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_stop.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tabuleiro.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\activity_tabuleiro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg.jpg.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_black.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\black.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tetris.jpg.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\tetris.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_inicial.jpg.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\inicial.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gray.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_configurar.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\activity_configurar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icone.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\icone.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rosa.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable\\rosa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game_over.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\activity_game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_baixo.jpg.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\baixo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_white.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\white.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dir.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\drawable-v24\\dir.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\layout_inflate_image_view.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\inflate_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

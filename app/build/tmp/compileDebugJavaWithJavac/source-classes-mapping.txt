@@ -1,0 +1,12 @@
+com/example/qtetris/databinding/ActivityConfigurarBinding.java
+ com.example.qtetris.databinding.ActivityConfigurarBinding
+com/example/qtetris/databinding/ActivityMainBinding.java
+ com.example.qtetris.databinding.ActivityMainBinding
+com/example/qtetris/BuildConfig.java
+ com.example.qtetris.BuildConfig
+com/example/qtetris/DataBindingTriggerClass.java
+ com.example.qtetris.DataBindingTriggerClass
+com/example/qtetris/databinding/ActivityGameOverBinding.java
+ com.example.qtetris.databinding.ActivityGameOverBinding
+com/example/qtetris/databinding/ActivityTabuleiroBinding.java
+ com.example.qtetris.databinding.ActivityTabuleiroBinding

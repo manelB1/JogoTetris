@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Tabuleiro"
+        android:gravity="center"
+        android:orientation="vertical" android:tag="layout/activity_tabuleiro_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <GridLayout
+            android:id="@+id/gridboard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".MainActivity">
+
+            <Button
+                android:id="@+id/moveBaixoButton"
+                android:layout_width="119dp"
+                android:layout_height="55dp"
+                android:layout_marginBottom="16dp"
+                android:text="BAIXO"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.25"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/moveEsquerdaButton"
+                app:layout_constraintVertical_bias="0.0"
+                tools:text="baixo" />
+
+            <Button
+                android:id="@+id/girarButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="60dp"
+                android:layout_marginBottom="124dp"
+                android:text="Girar"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toEndOf="@+id/moveBaixoButton" />
+
+            <Button
+                android:id="@+id/moveEsquerdaButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Esquerda"
+                app:layout_constraintEnd_toStartOf="@+id/moveDireitaButton"
+                app:layout_constraintHorizontal_bias="0.411"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="559dp" />
+
+            <Button
+                android:id="@+id/moveDireitaButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="188dp"
+                android:text="Direita"
+                app:layout_constraintEnd_toEndOf="parent"
+                tools:layout_editor_absoluteY="559dp" />
+
+            <Button
+                android:id="@+id/buttonPause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="60dp"
+                android:layout_marginBottom="16dp"
+                android:text="Pause"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toEndOf="@+id/moveBaixoButton"
+                app:layout_constraintTop_toBottomOf="@+id/girarButton"
+                app:layout_constraintVertical_bias="0.116" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+         

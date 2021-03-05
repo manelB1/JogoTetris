@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_game_over.xml",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\activity_game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tabuleiro.xml",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\activity_tabuleiro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_configurar.xml",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\activity_configurar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Emanuel\\AndroidStudioProjects\\JoguinhoTetris\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
